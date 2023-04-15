@@ -1,2 +1,11 @@
+add raw/stage/w6d03/w6d03_dev.pac
+add raw/stage/w6d03/w6d03_misc.pac
+add raw/stage/w6d03/w6d03_obj.pac
+add raw/stage/w6d03/w6d03_sky.pac
+add raw/stage/w6d03/w6d03_trr_cmn.pac
+add raw/stage/w6d03/w6d03_trr_density.pac
+add raw/stage/w6d03/w6d03_trr_height.pac
+add raw/stage/w6d03/w6d03_trr_heightfield.pac
+add raw/stage/w6d03/w6d03_trr_s00.pac
 add raw/dont remove/dontremove.txt
 add mod.ini
