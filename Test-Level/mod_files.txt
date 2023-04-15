@@ -1,2 +1,11 @@
-add raw/gedit/w6d03_gedit.pac
+add raw/w7d01/w7d01_dev.pac
+add raw/w7d01/w7d01_misc.pac
+add raw/w7d01/w7d01_obj.pac
+add raw/w7d01/w7d01_sky.pac
+add raw/w7d01/w7d01_trr_cmn.pac
+add raw/w7d01/w7d01_trr_density.pac
+add raw/w7d01/w7d01_trr_height.pac
+add raw/w7d01/w7d01_trr_heightfield.pac
+add raw/w7d01/w7d01_trr_s00.pac
+remove raw/dont remove/dontremove.txt
 add mod.ini
