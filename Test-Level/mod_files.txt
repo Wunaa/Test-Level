@@ -1,2 +1,2 @@
-add raw/gedit/w6d01_gedit.pac
+
 add mod.ini
