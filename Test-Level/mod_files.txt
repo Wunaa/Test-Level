@@ -1,11 +1,2 @@
 add raw/gedit/w6d01_gedit.pac
-add raw/stage/w6d01/w6d01_dev.pac
-add raw/stage/w6d01/w6d01_misc.pac
-add raw/stage/w6d01/w6d01_obj.pac
-add raw/stage/w6d01/w6d01_sky.pac
-add raw/stage/w6d01/w6d01_trr_cmn.pac
-add raw/stage/w6d01/w6d01_trr_density.pac
-add raw/stage/w6d01/w6d01_trr_height.pac
-add raw/stage/w6d01/w6d01_trr_heightfield.pac
-add raw/stage/w6d01/w6d01_trr_s00.pac
 add mod.ini
