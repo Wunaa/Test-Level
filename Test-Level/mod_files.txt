@@ -1,2 +1,3 @@
 add raw/gedit/w6d01_gedit.pac
+delete raw/gedit/w1r03_gedit.pac
 add mod.ini
